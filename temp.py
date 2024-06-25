@@ -1,2 +1,2 @@
-print ("Whatsup Buddy !!! V7")
-Print("Bhavesh")
+print("Whatsup Buddy !!! V7")
+print("Bhavesh")
